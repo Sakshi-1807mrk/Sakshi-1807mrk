@@ -1,11 +1,10 @@
-## Hi 👋, I'm Sakshi Khode
+### Hi 👋, I'm Sakshi Khode
 
 ## An Aspiring Data Analyst from India
 
 **Email Me** 👉 sakshikhode21@gmail.com 
 
 I'm always open to collaboration, learning opportunities, and interesting tech discussions. 😊😊
-__________________________________________________________________________________________________________
 
 ## 🚀 What I'm Currently Doing
 
