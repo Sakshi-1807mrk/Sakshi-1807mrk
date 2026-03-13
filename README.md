@@ -1,13 +1,12 @@
+<h1>Hi 👋 I'm Sakshi Khode</h1> 
 
-## Hi 👋, I'm Sakshi Khode
-
-## An Aspiring Data Analyst from India
+<h3>An Aspiring Data Analyst from India</h3>
 
 **Email Me** 👉 sakshikhode21@gmail.com 
 
 I'm always open to collaboration, learning opportunities, and interesting tech discussions. 😊😊
 
-## 🚀 What I'm Currently Doing
+<h2>🚀 What I'm Currently Doing</h2>
 
 - 🔭 **Working on:** Data analysis projects and real-time data dashboards (Stock Market Analysis, Data Cleaning & Visualization projects)
 - 🌱 **Learning:** Python and SQL for Data Cleaning and Analysis, Data Visualization, Web Scraping, and Dashboard tools like Power BI
